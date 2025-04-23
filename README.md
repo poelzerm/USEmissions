@@ -12,3 +12,4 @@ This small independent project explores the relationship between political affil
 - Jupyter Notebook
 
 This was a side project in 2025, and while not a full research paper, it reflects my interest in climate data and policy.
+See my presentation: https://docs.google.com/presentation/d/1FjVd-Y29qRK7qZDoAVpcFLW_adv3TWmPV1ueWUbCE0Q/edit?usp=sharing
